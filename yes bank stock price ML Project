@@ -1,0 +1,27 @@
+# **Problem Statement**
+Yes Bank is a well-known bank in the Indian financial domain. Since 2018, it has been in the news because of the fraud case involving Rana Kapoor. Owing to this fact, it was interesting to see how that impacted the stock prices of the company and whether Time series models or any other predictive models can do justice to such situations. This dataset has monthly stock prices of the bank since its inception and includes closing, starting, highest, and lowest stock prices of every month. The main objective is to predict the stock’s closing price of the month.
+
+Yes Bank is a well-known bank in the Indian financial domain. Since 2018, it has been in the news because of the fraud case involving Rana Kapoor. Owing to this fact, it was interesting to see how that impacted the stock prices of the company and whether Time series models or any other predictive models can do justice to such situations. This dataset has monthly stock prices of the bank since its inception and includes closing, starting, highest, and lowest stock prices of every month. The main objective is to predict the stock’s closing price of the month.
+
+
+# **Project Summary -**
+
+This is Yes Bank stock price data this data having form 2005 to 2020 in between how was stock performe We want to analyse this.It has no null value this data is ther in close,open,High,Date in that function.We have to work on that function and preditc it is use full form long term or investing some money.I use 5 moduls for regression then i found all moudls are providinge same result.
+
+###"Trying to know our data because if you know your data then only you can implent your ideas and get insights from it"
+
+We understood our problem and what our objective is, in order to predict the stock's closing price of the month there are few things that'll be required or you can say that (mandatory) to perform regression analysis or building a better model which can easily and accurately predict our desired output.
+
+So, to build a well performing model, we have divided our task into several steps:
+
+Feature Engineering:- Introducing New Variables, Dummy Variables
+
+Univariate Analysis:- Distplot, Histogram, Barplot
+
+Bivariate Analysis:- Boxplot, Heatmap,
+
+Introduced Models:- Linear Regression, Lasso, Ridge, ElasticNet and XGBoost Regression
+
+
+
+
